@@ -1,5 +1,9 @@
 var Adoption = artifacts.require("Adoption");
 
 module.exports = function(deployer) {
-  deployer.deploy(Adoption);
+  if (network == 'development'){
+    return deployer.deploy(Adoption);
+  }else{
+    return console.log("This Network is not development");
+  }
 };

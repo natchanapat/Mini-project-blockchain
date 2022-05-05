@@ -1,130 +1,131 @@
 [
   {
     "id": 0,
-    "name": "Frieda",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Lisco, Alabama"
+    "name": "Almond Blossom",
+    "picture": "images/image/Almond Blossom.JPG",
+    "Creator": "Vincent van Gogh",
+    "Date_Created": "1890 - 1890",
+    "Type": "Painting" 
+
   },
   {
     "id": 1,
-    "name": "Gina",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Tooleville, West Virginia"
+    "name": "American Gothic",
+    "picture": "images/image/American Gothic.JPG",
+    "Creator": "Grant Wood",
+    "Date_Created": "1930",
+    "Type": "Painting" 
   },
   {
     "id": 2,
-    "name": "Collins",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Freeburn, Idaho"
+    "name": "Boreas Abducting Oreithyia",
+    "picture": "images/image/Boreas Abducting Oreithyia.JPG",
+    "Creator": "François Boucher",
+    "Date_Created": "1769",
+    "Type": "Oil on canvas" 
   },
   {
     "id": 3,
-    "name": "Melissa",
-    "picture": "images/boxer.jpeg",
-    "age": 2,
-    "breed": "Boxer",
-    "location": "Camas, Pennsylvania"
+    "name": "Girl with a Pearl Earring",
+    "picture": "images/image/Girl with a Pearl Earring.JPG",
+    "Creator": "Johannes Vermeer",
+    "Date_Created": "1665",
+    "Type": "Painting" 
   },
   {
     "id": 4,
-    "name": "Jeanine",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Gerber, South Dakota"
+    "name": "Lady with an Ermine",
+    "picture": "images/image/Lady with an Ermine.JPG",
+    "Creator": "Leonardo da Vinci",
+    "Date_Created": "circa. 1489",
+    "Type": "oil, wood panel" 
   },
   {
     "id": 5,
-    "name": "Elvia",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
-    "location": "Innsbrook, Illinois"
+    "name": "Meadow with Poppies",
+    "picture": "images/image/Meadow with Poppies.JPG",
+    "Creator": "Pál Szinyei Merse",
+    "Date_Created": "1896",
+    "Type": "Painting" 
   },
   {
     "id": 6,
-    "name": "Latisha",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Soudan, Louisiana"
+    "name": "Self-Portrait",
+    "picture": "images/image/Self-Portrait.JPG",
+    "Creator": "Vincent van Gogh",
+    "Date_Created": "1889",
+    "Type": "Painting" 
   },
   {
     "id": 7,
-    "name": "Coleman",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 3,
-    "breed": "Golden Retriever",
-    "location": "Jacksonwald, Palau"
+    "name": "Sunflowers",
+    "picture": "images/image/Sunflowers.JPG",
+    "Creator": "Vincent van Gogh",
+    "Date_Created": "1889 - 1889",
+    "Type": "Still life" 
   },
   {
     "id": 8,
-    "name": "Nichole",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 2,
-    "breed": "French Bulldog",
-    "location": "Honolulu, Hawaii"
+    "name": "The Bedroom",
+    "picture": "images/image/The Bedroom.JPG",
+    "Creator": "Vincent van Gogh ",
+    "Date_Created": "1889",
+    "Type": "Painting" 
   },
   {
     "id": 9,
-    "name": "Fran",
-    "picture": "images/boxer.jpeg",
-    "age": 3,
-    "breed": "Boxer",
-    "location": "Matheny, Utah"
-  },
+    "name": "The Blessing Christ",
+    "picture": "images/image/The Blessing Christ.JPG",
+    "Creator": "Óleo sobre tela",
+    "Date_Created": "1834",
+    "Type": "Painting"
+  }, 
   {
     "id": 10,
-    "name": "Leonor",
-    "picture": "images/boxer.jpeg",
-    "age": 2,
-    "breed": "Boxer",
-    "location": "Tyhee, Indiana"
+    "name": "The Great Wave off the Coast of Kanagawa",
+    "picture": "images/image/The Great Wave off the Coast of Kanagawa.JPG",
+    "Creator": "Katsushika Hokusai",
+    "Date_Created": "1831",
+    "Type": "work on paper" 
   },
   {
     "id": 11,
-    "name": "Dean",
-    "picture": "images/scottish-terrier.jpeg",
-    "age": 3,
-    "breed": "Scottish Terrier",
-    "location": "Windsor, Montana"
+    "name": "The Little Sailing Boat",
+    "picture": "images/image/The Little Sailing Boat.JPG",
+    "Creator": "The Little Sailing Boat",
+    "Date_Created": "1909",
+    "Type": "Painting" 
   },
   {
     "id": 12,
-    "name": "Stevenson",
-    "picture": "images/french-bulldog.jpeg",
-    "age": 3,
-    "breed": "French Bulldog",
-    "location": "Kingstowne, Nevada"
+    "name": "The Scream",
+    "picture": "images/image/The Scream.JPG",
+    "Creator": "Edvard Munch",
+    "Date_Created": "1910",
+    "Type": "Painting" 
   },
   {
     "id": 13,
-    "name": "Kristina",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 4,
-    "breed": "Golden Retriever",
-    "location": "Sultana, Massachusetts"
+    "name": "The Starry Night",
+    "picture": "images/image/The Starry Night.JPG",
+    "Creator": "Vincent van Gogh",
+    "Date_Created": "1889",
+    "Type": "Painting" 
   },
   {
     "id": 14,
-    "name": "Ethel",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Broadlands, Oregon"
+    "name": "The Veteran in a New Field",
+    "picture": "images/image/The Veteran in a New Field.JPG",
+    "Creator": "Winslow Homer",
+    "Date_Created": "1865",
+    "Type": "Painting" 
   },
   {
     "id": 15,
-    "name": "Terry",
-    "picture": "images/golden-retriever.jpeg",
-    "age": 2,
-    "breed": "Golden Retriever",
-    "location": "Dawn, Wisconsin"
+    "name": "We inhabit the corrosive littoral of habit",
+    "picture": "images/image/We inhabit the corrosive littoral of habit.JPG",
+    "Creator": "James Gleeson",
+    "Date_Created": "1940",
+    "Type": "Paintings" 
   }
 ]
