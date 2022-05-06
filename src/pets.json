@@ -1,16 +1,16 @@
 [
   {
     "id": 0,
-    "name": "Almond Blossom",
+    "name": "Almond  Blossom",
     "picture": "images/image/Almond Blossom.JPG",
     "Creator": "Vincent van Gogh",
-    "Date_Created": "1890 - 1890",
+    "Date_Created": "1890-1890",
     "Type": "Painting" 
 
   },
   {
     "id": 1,
-    "name": "American Gothic",
+    "name": "American  Gothic",
     "picture": "images/image/American Gothic.JPG",
     "Creator": "Grant Wood",
     "Date_Created": "1930",
@@ -44,7 +44,7 @@
     "id": 5,
     "name": "Meadow with Poppies",
     "picture": "images/image/Meadow with Poppies.JPG",
-    "Creator": "Pál Szinyei Merse",
+    "Creator": "Pal Szinyei Merse",
     "Date_Created": "1896",
     "Type": "Painting" 
   },
@@ -82,7 +82,7 @@
   }, 
   {
     "id": 10,
-    "name": "The Great Wave off the Coast of Kanagawa",
+    "name": "The Great Wave of Kanagawa",
     "picture": "images/image/The Great Wave off the Coast of Kanagawa.JPG",
     "Creator": "Katsushika Hokusai",
     "Date_Created": "1831",
@@ -126,6 +126,6 @@
     "picture": "images/image/We inhabit the corrosive littoral of habit.JPG",
     "Creator": "James Gleeson",
     "Date_Created": "1940",
-    "Type": "Paintings" 
+    "Type": "Painting" 
   }
 ]

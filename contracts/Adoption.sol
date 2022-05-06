@@ -4,6 +4,10 @@ contract Adoption {
     address[16] public adopters;
     // Function to return
 	// current balance of owner
+    function getBalance(
+	) public view returns(uint){
+		return address(this).balance;
+	} 
 	
     // Adopting a pet
     function adopt(uint petId) public returns (uint) {

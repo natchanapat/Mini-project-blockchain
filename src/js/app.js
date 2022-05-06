@@ -58,11 +58,30 @@ web3 = new Web3(App.web3Provider);
       App.contracts.Adoption.setProvider(App.web3Provider);
     
       // Use our contract to retrieve and mark the adopted pets
+      App.initBalance();
       return App.markAdopted();
     });
 
     return App.bindEvents();
   },
+
+  initBalance: function(){
+    
+    web3.eth.getAccounts(async function(error, accounts) {
+      if (error) {
+        console.log(error);
+      }
+
+      var account = accounts[0];
+      var balance = await web3.eth.getBalance(account); //Will give value in.
+      App.walletBalance = balance;
+      var total_balance = $('#total_balance');
+      console.log(App.walletBalance);
+      total_balance.text(web3.utils.fromWei(balance, 'ether')+" ETH");
+      // console.log(balance)
+      // console.log(web3.utils.fromWei(balance, 'ether'))
+    })
+  }, 
 
   bindEvents: function() {
     $(document).on('click', '.btn-adopt', App.handleAdopt);
